@@ -19,7 +19,7 @@ const Home = () => {
                 </div>
                 <div className="row my-5 ">
                     <div className="col-sm-4 d-flex">
-                        <Link to="/login" className="w-100 h-100 text-decoration-none">
+                        <Link to="/admin/login" className="w-100 h-100 text-decoration-none">
                             <div className="card h-100">
                                 <div className="row h-100">
                                     <div className="col-sm-6 text-center d-flex align-items-center justify-content-center">
