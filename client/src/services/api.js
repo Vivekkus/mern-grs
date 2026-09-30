@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'https://mern-grs-1.onrender.com', // Adjust if backend PORT changes
+    baseURL: 'https://mern-grs-1.onrender.com/api', // Adjust if backend PORT changes
 });
 
 // Request interceptor to add token
